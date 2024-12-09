@@ -36,7 +36,7 @@
             // 
             // rollTwoDice
             // 
-            rollTwoDice.Location = new Point(463, 88);
+            rollTwoDice.Location = new Point(477, 79);
             rollTwoDice.Name = "rollTwoDice";
             rollTwoDice.Size = new Size(83, 25);
             rollTwoDice.TabIndex = 0;
